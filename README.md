@@ -1,6 +1,6 @@
-🍕 Pizzería Mamma Mia! — Hito 1 (React + Vite)
+🍕 Pizzería Mamma Mia! — Hito 1
 
-Proyecto del Hito 1 donde se construye la maqueta inicial de la app Pizzería Mamma Mia! usando React + Vite, con componentes reutilizables y renderizado condicional en el Navbar.
+Proyecto del Hito 1 donde se construye la maqueta inicial de la app Pizzería Mamma Mia! usando React, con componentes reutilizables.
 
 ✅ Requerimientos implementados
 
@@ -24,10 +24,12 @@ CardPizza: muestra imagen, nombre, ingredientes, precio formateado, botones “V
 
 Footer: texto final del sitio
 
-🧱 Tecnologías usadas
+⚙️ Tecnologías usadas
 
 React
 
 Vite
 
-Bootstrap (opcional)
+Bootstrap
+
+##### Proyecto desarrollado por Sebastián Riquelme / G103 - Desafío Latam
